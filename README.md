@@ -20,3 +20,9 @@ Members and Datasets:
 * csb85@pitt.edu
 * [Link](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment)
 * Description: Data on the school enrollment in Pittsburgh neighborhoods from 2015
+
+### Jackson Gelting
+* jdg113@pitt.edu
+* [Link](https://data.wprdc.org/dataset/allegheny-county-walk-scores)
+* [Link](https://data.wprdc.org/dataset/2010-census-tracts)
+* Description: Data on census tract walk scores and another on census tract correspondance to neighborhood
