@@ -1,61 +1,61 @@
-,Neighborhood,Walk_Score
-0,Lincoln Place,20.0
-1,Windgap,22.0
-3,Perry North,27.125
-5,Stanton Heights,28.25
-4,Crafton Heights,30.25
-7,Hazelwood,31.0
-8,East Hills,32.0
-9,Marshall-Shadeland,35.0
-11,Ridgemont,37.0
-10,Swisshelm Park,37.0
-2,Lincoln-Lemington-Belmar,38.875
-13,Bon Air,40.0
-15,West End,40.5
-14,Morningside,40.75
-6,Brookline,40.75
-17,Oakwood,42.0
-12,Perry South,42.25
-16,Overbrook,44.5
-19,Brighton Heights,46.625
-21,Sheraden,48.0
-26,Spring Hill-City View,49.0
-25,Upper Lawrenceville,49.0
-23,Beechview,50.25
-28,Highland Park,51.75
-22,Greenfield,51.75
-27,Point Breeze,51.75
-24,Carrick,52.375
-31,Fineview,54.0
-29,Westwood,54.0
-32,Homewood North,57.0
-20,Mount Washington,57.5
-33,Knoxville,58.0
-18,Squirrel Hill South,58.3125
-34,Terrace Village,59.0
-35,Middle Hill,60.0
-36,Chateau,62.0
-37,Allentown,63.0
-38,East Liberty,63.0
-30,Central Lawrenceville,64.25
-39,South Side Slopes,65.0
-42,Garfield,69.0
-41,South Oakland,69.5
-40,Squirrel Hill North,70.25
-43,West Oakland,71.0
-45,Point Breeze North,72.0
-44,South Shore,72.0
-46,Upper Hill,74.0
-50,North Shore,75.0
-48,Central Oakland,75.75
-52,Bedford Dwellings,77.0
-53,Crawford-Roberts,77.0
-49,South Side Flats,77.5
-47,North Oakland,77.625
-51,Shadyside,83.171875
-54,Bloomfield,83.75
-56,Allegheny West,86.0
-57,Friendship,86.0
-55,Strip District,87.25
-58,Polish Hill,88.0
-59,Lower Lawrenceville,91.0
+RANK,NEIGHBORHOOD
+1,Lower Lawrenceville
+2,Polish Hill
+5,Strip District
+3,Friendship
+4,Allegheny West
+6,Bloomfield
+9,Shadyside
+13,North Oakland
+11,South Side Flats
+7,Crawford-Roberts
+8,Bedford Dwellings
+12,Central Oakland
+10,North Shore
+14,Upper Hill
+16,South Shore
+15,Point Breeze North
+17,West Oakland
+20,Squirrel Hill North
+19,South Oakland
+18,Garfield
+21,South Side Slopes
+30,Central Lawrenceville
+22,East Liberty
+23,Allentown
+24,Chateau
+25,Middle Hill
+26,Terrace Village
+42,Squirrel Hill South
+27,Knoxville
+40,Mount Washington
+28,Homewood North
+31,Westwood
+29,Fineview
+36,Carrick
+33,Point Breeze
+38,Greenfield
+32,Highland Park
+37,Beechview
+35,Upper Lawrenceville
+34,Spring Hill-City View
+39,Sheraden
+41,Brighton Heights
+44,Overbrook
+48,Perry South
+43,Oakwood
+54,Brookline
+46,Morningside
+45,West End
+47,Bon Air
+58,Lincoln-Lemington-Belmar
+50,Swisshelm Park
+49,Ridgemont
+51,Marshall-Shadeland
+52,East Hills
+53,Hazelwood
+56,Crafton Heights
+55,Stanton Heights
+57,Perry North
+59,Windgap
+60,Lincoln Place
